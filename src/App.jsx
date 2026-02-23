@@ -65,9 +65,9 @@ function App() {
             Entrar
           </button>
 
-          <div className ="auth-footer">
+          <div className="auth-footer">
             <p>Não tem uma conta?</p>
-            <button className='toggle-btn'>Cadastre-se</button>
+            <button className='toggle-btn'>cadastre-se</button>
           </div>
 
         </div>
